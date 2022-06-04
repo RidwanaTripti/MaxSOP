@@ -1,9 +1,7 @@
 import 'dart:async';
-
 import 'package:flutter/material.dart';
-import 'package:google_fonts/google_fonts.dart';
 import 'package:animated_text_kit/animated_text_kit.dart';
-import 'package:splash_screen/screens/second_screen.dart';
+import '/screens/second_screen.dart';
 import 'package:animated_splash_screen/animated_splash_screen.dart';
 
 class FSplash extends StatefulWidget {
